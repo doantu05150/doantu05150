@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @doantu05150 
 - 👀 I’m interested in the gallaxy 
 - 🌱 Frontend developer
-- 💞️ 3 years experience
+- 💞️ 4+ years experience
 - 📫 Vuejs, Nextjs, Reactjs, Nextjs, React Native
 
 <!---
